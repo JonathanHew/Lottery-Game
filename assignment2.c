@@ -12,6 +12,7 @@ Option 2,3,4,5 will only be accesible after 6 valid numbers have been chosen.
 Designed by Jonathan Hew
 Date: 23/02/2020
 Compiler: Borland
+
 */
 #include <stdio.h>
 #define SIZE 6
