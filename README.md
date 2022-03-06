@@ -31,7 +31,7 @@ Also: <br />
 
 # Video Demo
 
-![A Video](Images:\Videos/LottoGame.mp4)
+[![YouTube](http://img.youtube.com/vi/g6H-QCcyvaM/0.jpg)](https://youtu.be/g6H-QCcyvaM)
 
 # Instructions
 This was compiled and ran on Mac terminal using GCC compiler
