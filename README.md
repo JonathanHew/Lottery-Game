@@ -30,6 +30,7 @@ Also: <br />
 
 
 # Video Demo
+Please click on the video image below to view the demo of this project.
 
 [![YouTube](http://img.youtube.com/vi/g6H-QCcyvaM/0.jpg)](https://youtu.be/g6H-QCcyvaM)
 
